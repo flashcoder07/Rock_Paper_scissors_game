@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game (Harsh Chainani)
+# Rock-Paper-Scissors Game
 
 ## Overview
 
@@ -28,4 +28,4 @@ Customization
 You can modify the play function to add more features or customize the gameplay.
 Consider implementing a scoring system or additional game variations.
 Credits
-[Your Name]
+[Harsh Chainani]
